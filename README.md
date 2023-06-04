@@ -1,2 +1,4 @@
-# orthonectid-plasmodium-genes
-Orthonectid plasmodium-specific gene set
+# Orthonectid plasmodium-specific gene set
+
+DE.R is R script used for detection of orthonectid plasmodium-specific genes expressed on the parasitic plasmodium stage of their life cycle but unexpressed in sexual orthinectid individuals.
+
